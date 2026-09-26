@@ -1,14 +1,16 @@
-# SuperWin — Trợ lý thiết kế xây dựng
+# SuperWin — Trợ lý thiết kế xây dựng + Gói 1 việc 500k
 
-## Link kho (chia sẻ cho cộng đồng)
+## Đang bán
 
-**https://github.com/tiger869-win/SuperWin-XayDung**
+Gói thử **500.000đ**: làm hộ 1 việc lặp (văn phòng / giáo viên / xây dựng) + SOP dùng lại.
 
-## Cách dùng
+- Trang bán: [goi-500k/index.html](goi-500k/index.html)
+- Vận hành nội bộ: [goi-500k/van-hanh.html](goi-500k/van-hanh.html)
 
-1. Tải file `superwin.html` (nút Code → Download ZIP, hoặc nhận file từ người chia sẻ).
-2. Mở bằng Chrome / Edge / Cốc Cốc.
-3. Đăng ký tài khoản mới → dùng ngay.
-4. Muốn nối AutoCAD: chạy `node superwin-bridge.js` trên máy Windows.
+## Cách dùng nhanh
 
-Dữ liệu nằm trên máy người dùng. Đồng bộ bằng Xuất JSON / Obsidian / USB.
+1. Tải file HTML → mở Chrome / Edge / Cốc Cốc.
+2. Sửa số Zalo và STK trong `goi-500k/index.html` (mục CONFIG).
+3. Gửi link hoặc file cho khách.
+
+Dữ liệu nằm trên máy người dùng.
